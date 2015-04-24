@@ -1,0 +1,119 @@
+﻿/* 通用默认样式-------------------------------------- */
+body {background-color: #FFFFFF;margin-left: 0px;margin-top: 0px;margin-right: 0px;margin-bottom: 0px; }
+td {font-family:"宋体";font-size: 12px;color: #2f2f2f;line-height: 20px;WORD-WRAP: break-word}
+A:link   {font-family:"宋体";font-size:12px;color: #2F2F2F;;text-decoration: none;}
+A:visited{font-family:"宋体";font-size:12px;color: #2F2F2F;;text-decoration: none;}
+A:hover  {font-family:"宋体";font-size:12px;color: #FF0000;;text-decoration: none;}
+A:active {font-family:"宋体";font-size:12px;color: #FF0000;;text-decoration: none;}
+/* 顶部语言选择链接样式------------------------------- */
+.language A:link   {font-family:Verdana, Arial,"宋体";font-size:12px;color: #1874CD;text-decoration: none;}
+.language A:visited{font-family:Verdana, Arial,"宋体";font-size:12px;color: #1874CD;text-decoration: none;}
+.language A:hover  {font-family:Verdana, Arial,"宋体";font-size:12px;color: #1874CD;text-decoration: none;}
+.language A:active {font-family:Verdana, Arial,"宋体";font-size:12px;color: #1874CD;text-decoration: none;}
+/* 底部文字及链接样式--------------------------------- */
+td.Copyright        {vertical-align: middle;font-family:Verdana, Arial,"宋体";font-size:12px;color: #FFFFFF;}
+.Copyright A:link   {font-family:Verdana, Arial,"宋体";font-size:12px;color: #FFFFFF;text-decoration: none}
+.Copyright A:visited{font-family:Verdana, Arial,"宋体";font-size:12px;color: #FFFFFF;text-decoration: none}
+.Copyright A:hover  {font-family:Verdana, Arial,"宋体";font-size:12px;color: #FF0000;text-decoration: none}
+.Copyright A:active {font-family:Verdana, Arial,"宋体";font-size:12px;color: #FF0000;text-decoration: none}
+
+/* 顶部快速查看项目链接样式---------------------------- */
+td.QuickView        {height: 26px;text-align: right;vertical-align: top;}
+.QuickView A:link   {font-family:Verdana, Arial,"宋体";font-size:11px;color: #FFFFFF;text-decoration: none;font-weight: bold}
+.QuickView A:visited{font-family:Verdana, Arial,"宋体";font-size:11px;color: #FFFFFF;text-decoration: none;font-weight: bold}
+.QuickView A:hover  {font-family:Verdana, Arial,"宋体";font-size:11px;color: #FF0000;text-decoration: none;font-weight: bold}
+.QuickView A:active {font-family:Verdana, Arial,"宋体";font-size:11px;color: #FF0000;text-decoration: none;font-weight: bold}
+/* 顶部主要导航菜单链接样式---------------------------- */
+td.Navigation        {vertical-align: middle;}
+.Navigation A:link   {font-family:Verdana, Arial,"宋体";font-size:14px;color: #FFFFFF;text-decoration: none;font-weight: bold}
+.Navigation A:visited{font-family:Verdana, Arial,"宋体";font-size:14px;color: #FFFFFF;text-decoration: none;font-weight: bold}
+.Navigation A:hover  {font-family:Verdana, Arial,"宋体";font-size:14px;color: #FF0000;text-decoration: none;font-weight: bold}
+.Navigation A:active {font-family:Verdana, Arial,"宋体";font-size:14px;color: #FF0000;text-decoration: none;font-weight: bold}
+/* 分类菜单链接样式----------------------------------- */
+tr.WebMenu        {vertical-align: middle;background-image: url(Point_line_02.gif);height: 26px;}
+.WebMenu A:link   {font-family:"宋体";font-size:12px;text-decoration: none}
+.WebMenu A:visited{font-family:"宋体";font-size:12px;text-decoration: none}
+.WebMenu A:hover  {font-family:"宋体";font-size:12px;text-decoration: none}
+.WebMenu A:active {font-family:"宋体";font-size:12px;text-decoration: none}
+
+tr.WebMenu1        {
+	vertical-align: middle;
+	background-image: url(../Images/tu_11.jpg);
+	height: 35px;
+	background-repeat: no-repeat;
+}
+.WebMenu1 A:link   {font-family:"宋体";font-size:12px;text-decoration: none}
+.WebMenu1 A:visited{font-family:"宋体";font-size:12px;text-decoration: none}
+.WebMenu1 A:hover  {
+	font-family:"宋体";
+	font-size:12px;
+	text-decoration: none;
+	color: #339900;
+}
+.WebMenu1 A:active {
+	font-family:"宋体";
+	font-size:12px;
+	text-decoration: none;
+	color: #339900;
+}
+/* 当前位置链接样式---------------------------------- */
+.Location A:link   {
+	font-family:"宋体";
+	font-size:12px;
+	text-decoration: none;
+}
+.Location A:visited{font-family:"宋体";font-size:12px;ctext-decoration: none}
+.Location A:hover  {font-family:"宋体";font-size:12px;color: #4396DA;text-decoration: none}
+.Location A:active {font-family:"宋体";font-size:12px;color: #4396DA;text-decoration: none}
+/* 信息列表样式------------------------------------- */
+td.ListTitle        {background-image: url(Point_line_01.gif);height: 25px;font-size: 9px;font-family:Arial,Verdana,"宋体";color: #666666;}
+/* Main产品与服务链接样式----------------------------- */
+td.MainMenu        {vertical-align: middle;padding-top: 2px;}
+.MainMenu A:link   {font-family:"宋体";font-size:12px;color: #2F2F2F;text-decoration: none}
+.MainMenu A:visited{font-family:"宋体";font-size:12px;color: #2F2F2F;text-decoration: none}
+.MainMenu A:hover  {font-family:"宋体";font-size:12px;color: #2F2F2F;text-decoration: underline}
+.MainMenu A:active {font-family:"宋体";font-size:12px;color: #2F2F2F;text-decoration: underline}
+
+td.MenuListTitle  {background-image: url(Point_line_01.gif);height: 25px;}
+table.Outside {background-color: #FFFFFF;}
+td.TopNew     {background-color: #F4F4F4;border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #C2C2C2;}
+td.AllCenter  { background-color:#FFFFFF;}
+input.AllSearch  {border-top: #666666 1px solid;border-bottom: #666666 1px solid;border-left:#666666 1px solid;border-right:#666666 1px solid;font-size:11px; background: #F2F2F2; font-family:Verdana,Arial,"宋体";color: #2F2F2F;}
+select        {border-top: #666666 1px solid;border-bottom: #666666 1px solid;border-left:#666666 1px solid;border-right:#666666 1px solid;font-size:11px; background: #F2F2F2; font-family:Verdana,Arial,"宋体";color: #2F2F2F;}
+input.MemLogin  {border-top: #333333 1px solid;border-bottom: #333333 1px solid;border-left:#333333 1px solid;border-right:#333333 1px solid;font-size:11px; background: #FFFFFF; font-family:Verdana,Arial,"宋体";color: #2F2F2F;}
+
+.button { 
+	border-left: #ffffff 1px ridge; 
+	border-right: #2F2F2F 1px ridge; 
+	border-top: #ffffff 1px ridge; 
+	border-bottom: #1c1c1c 1px ridge; 
+    font-family:"宋体";
+	font-size: 12px;
+    color: #1c1c1c; 
+	background-color: #EBF2F9; 
+	cursor: hand; 
+}
+.TextBox{
+	border-top-width:1px;
+	border-bottom-width:2px;
+	border-left-width:1px;
+	border-right-width:2px;
+	font-size: 12px;
+    font-family:Verdana,Arial,"宋体";
+	color: #2f2f2f;
+}
+.sj{
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: "宋体";
+}
+
+.ss{
+	color: #FFFFFF;
+}
+
+.STYLE1 {color: #FFFFFF}
+.ss .STYLE1 {
+	color: #FFFFFF;
+}
